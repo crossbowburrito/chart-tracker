@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.so
+*.egg-info
+.Python
+db.sqlite3
+.env
+env/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
